@@ -1,1 +1,2 @@
-# gopl.io \n Examples from the Go Programming Language Book
+# gopl.io  
+Examples from the Go Programming Language Book
